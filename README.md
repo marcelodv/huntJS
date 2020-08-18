@@ -3,7 +3,7 @@
     Open the project
     Run 'yarn start' on Terminal
 
-    Open (http://localhost:3000) to view the calculator in the browser.
+Open (http://localhost:3000) to view the calculator in the browser.
 
 ### Mobile Prints
 
